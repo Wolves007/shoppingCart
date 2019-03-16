@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="marketingprogram-api" />
+        <module name="marketingprogram-dao" />
+        <module name="marketingprogram-domain" />
+        <module name="marketingprogram-service" />
+        <module name="marketingprogram-web" />
+        <module name="marketingprogramapi" />
+        <module name="marketingprogramdao" />
+        <module name="marketingprogramdomain" />
+        <module name="marketingprogramservice" />
+        <module name="marketingprogramweb" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
